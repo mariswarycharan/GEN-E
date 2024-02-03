@@ -1,0 +1,729 @@
+Title_of_the_event: Flickrs - not active
+Description: Flickrs - An invigorated event to energize the finest snapper in you! This is an astounding opportunity to express your aesthetic vision through your magnificent clicks!
+Studio KCT organizes a photography competition called Flickrs. Participants are required to submit photographs based on a given theme by the deadline, and the winning photograph will receive a prize.
+Rules & Regulations:
+1. This is a three day event wherein the participants will be given three separate themes to adhere to.
+2. Participants are expected to take part individually and not in teams.
+3. The photographs must be captured inside the campus. Any image entertaining plagiarism (i.e., the images taken from the internet) will be disqualified.
+4. Basic editing of the photographs are allowed, any sort of photo manipulation will result in disqualification.
+5. The submitted images should be in "JPEG" format and should be submitted within the said deadline.
+Category: cultural
+Sub Category: Fine Arts
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Crack the CADD
+Description: “Design is thinking made visual”. Crack the CADD is the platform to showcase your creativity and knowledge in the field of modelling and designing.
+Rules and Regulations:
+1. Individual participation.
+2. Live modelling on the given topic or based on the application of the model.
+3. Restricted to download models from websites.
+4. Maximum time allotted for ROUND 1 is 60 mins (1 Hour) MCQs on modelling and engineering graphics.
+5. Maximum time allotted for ROUND 2 is 90 mins (1 Hour 30 Min)  Participants should draw 2D diagram of the given Object.
+6. Maximum time allotted for ROUND 3 is 180 mins (3 Hour) 3D modelling based on application-oriented problem.
+Category: technical
+Sub Category: Mechanical
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Lit fusion
+Description: "This event is a literary extravaganza which brings all the literary events to a spectacular event and also in a fun filled way rather than formal debates and discussion. This event consists of JAM, Connections, Pictionary etc."
+Rules and regulations :
+1.There are 3 rounds
+2. Round 1:  connections ,word riddle ( team of 2 participation)
+3. Round 2:  Dump shaarat ( between 2 people)
+4. Round 3 : shipwreck
+Category: literary
+Sub Category: Literature
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Drone Hunt
+Description: Drone hunt is a treasure hunt-based event that combines quick thinking, wit, and technical knowledge. This is an event with a fusion of technical knowledge and entertainment.
+Rules and Regulations:
+1) Time based event.
+2) Sabotaging other teams will lead to immediate disqualification.
+3) The judge's decision is final.
+4) It's a team event (3 - 5 members per team)
+Category: technical
+Sub Category: Mechanical
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Tech Feud
+Description: Tech Feud is a fun-filled tech-themed event that draws inspiration from the American TV show Family Feud, hosted by Steve Harvey. Teams compete by answering basic and simple tech questions in a game show-style format, trying to guess the most popular responses to survey questions related to technology. The event promises to deliver a unique blend of tech knowledge, competitive spirit, humor, and entertainment, making it an exciting and engaging experience for tech enthusiasts of all levels. So come and join us for a session of tech trivia and see if your team has what it takes to win the game!
+Rules and regulations –
+As the questions fly, the team that presses the buzzer first gets to go first. The answers are weighted according to how important they are.
+1. The winning team is the one with the most points.
+2. The one who rings the bell first gets to answer.
+3. Answers with a higher priority are awarded 5 points, while those with a lower priority are given only 1 point.
+4. You lose two points for every false response.
+5. You have 90 seconds to respond.
+6. If the question is left unanswered, the other team receives an extra point
+Category: technical
+Sub Category: Computing
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Sportz Quiz
+Description: Join us for an exciting and engaging sports quiz with an opportunity to showcase your knowledge of sports. From iconic moments in sports history to lesser-known trivia, this quiz will challenge your expertise in the world of sports.
+Praveen Jeyaraj from Multiverse Quizzing is the quiz master who will lead the quiz with his trademark energy, enthusiasm and humor. Whether you are a sports fanatic or just someone who enjoys a good quiz, this event is perfect for you!
+Category: literary
+Sub Category: Literature
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Cycle Stunt Show
+Description: Cycle stunt show is to grab attention towards the wheels with having thrill, excitement and also to make interest in cycling to the people. We the Kumaraguru Bikers pride to provide you with the best Cycle Stunt show on our most memorable day, let's get together to cheer and celebrate the Yugam'23 with us.
+Category: general
+Sub Category: Fitness
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Hooey
+Description: The act of coming up with something on the spot. An example of improvisation is a set of actors performing without a script.
+Develops one's creativity, mental flexibility and thinking skills in numerous ways and ability to generate new ideas. Spontaneity and ability to present without preconceived ideas.
+Rules and regulations -
+1) No Vulgarity
+2) No adult content
+3) Performance time: 4-5 minutes
+4) Language - Tamil Or English
+5) Judge decision will be final
+Category: cultural
+Sub Category: Performing Arts
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Tech_Expo__
+Description: Tech Expo 2023
+a stage for exhibiting your emerging innovations on major
+blooming technical aspects answering the challenges of today.
+This brings up a unique platform for students across India to showcase their
+prototypes or proof of concepts to the various industries and investors..
+The expo encourages the students to reveal their products based on categories
+like Electric and Hybrid Vehicle, Agritech, Artificial Intelligence, Health Tech, Smart
+Cities and Infrastructure.
+The tech expo involves two rounds
+:
+Preliminary Round:
+Short listing of ideas through Online.(Abstract and Video submission)
+Final Round:
+ Final Prototype Presentation.
+Do not miss out this opportunity as this
+expo aims to discover and unveil new innovations and projects and expand your
+knowledge and network with investors and industries. Exhibit your
+prototypes/proof of concepts and win cash prizes.
+Prize Worth of 50,000(Theme wise)
+Last Date of Preliminary Round Submission : 25th Feb.
+Team size: 2-4
+Category: technical
+Sub Category: Circuit
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Drone Hunt - not active
+Description: Drone hunt is a skill and fun based treasure hunt and product
+building event which tests both the participants knowledge on
+drone building and its components.
+Rules and regulations
+1) The participants need not have prior knowledge in drone building
+2) Since this is a time based event, the participants must report to the venue in mentioned times
+3) Sabotaging other teams is not permitted
+4) Misconduct can lead to immediate disqualification
+Category: technical
+Sub Category: Space
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Horcrux Hunt
+Description: “You were the horcrux he never meant to make.” The Dark Lord created 7 horcruxes to sustain immortality. The golden trio was set to hunt the horcrux and destroy ‘you know who’. This treasure hunt for all the Potterhead’s out there who wishes to unleash their fantasy of finding the horcrux.
+Rules and Regulations:
+1. The participants will have to find 7 books that represent the Horcruxes in Harry Potter that is placed in 7 different places of our campus.
+2.The participants will be given clues and the one who decodes the clue will be led to the book.
+Category: literary
+Sub Category: Literature
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Surf Excel
+Description: Breaking all stereotype of traditional quizzes, Surf excel will allow the participants to surf the internet to search the answers for their questions. The topics and questions are framed in such a way that even if you have no idea how quizzing works, you will still be able to answer & learn a lot!
+This will be a general quiz , where the topics of the questions will be announced in prior to the beginning of the quiz.
+Rules and regulations:
+Traditional Quiz format
+Category: literary
+Sub Category: Literature
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Thulir'23 National Yogasana Championship
+Description: Athletic Yoga Competition
+Common Category (Separate for boys & girls)
+Category for contestants:
+Group A: 1st & 2nd standard
+Group B: 3rd & 4th standard
+Group C: 5th & 6th standard
+Group D: 7th to 9th standard
+Group E: 10th,11th,12th Standard & Polytechnic students
+Group F: UG & PG
+•The contestant has to perform five asanas ( four asanas from the
+given asana chart and one asana as per their choice)
+• Asanas should be performed as per the given chart.
+• All participants will be awarded a participation certificate.
+• 1st, 2nd & 3rd prize for each category will be awarded a shield
+and a certificate.
+Champion of champions
+• 1st place from each group of the common category will compete
+in Champion of champions for free
+• The contestants who are willing to take part in Champion of
+champions can participate with the registration fee of Rs.400
+on the date of the competition.
+• Each contestant should perform five asanas and the asanas
+will be left to the contestants choice (Front bend - 1, Back bend -
+1, Twisting - 1, Hand balance - 1, Leg balance -1)
+• The winners of champion of champions will be awarded a
+trophy and a certificate.
+Rules And Regulations
+• The competition is open to all the individuals including members from
+yoga clubs, schools, colleges, education institutions and yoga association
+from all over India.
+• The contestants must bring their school/college ID for verification.
+• Contestants are requested to report before 8.00 AM
+• Dress code
+• Boys: Yoga tights only (t-shirts/ shirts are not allowed)
+• Girls: Yoga tights and t-shirts.
+• Ornaments should be avoided.
+• Asanas’ evaluation will be based on the perfection of asanas, body
+alignment, range of flexibility, strength, balance and resistance and
+execution of Pranayama (control of energy).
+• Contestants should maintain good conduct and discipline during the
+competition. If not, the participant will be disqualified from the competition.
+• Lunch will be provided for all participants and the results will be announced
+around 4.00 PM.
+• The organization / institution / school participating with the maximum
+number of participants will be honored.
+• The fees once paid will not be refunded. The fees paid for one contestant
+will not be transferred for another contestant.
+• Judges will be appointed by the committee and their decision will be final.
+• The committee reserves the right to add, alter and amend the rules on the
+date of competition.
+Category: general
+Sub Category: Fitness
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: SOCIAL PLAY
+Description: Drama club and Community Engagement Club of KCLAS brings you all a collaborated event where you will be performing Drama based on community outreach which provokes awareness to the society. Grab this opportunity and showcase your talent in this grand forum and win exciting cash prizes.
+Rules and Regulations:
+No. of participants - Min 6 and Max 10
+Duration - Min 5 mins and Max 12 mins
+Language - Tamil or English
+Judging Criteria - Proper code of attire, creativity, use of props effectively, presentation with relevance to the topic and teamwork
+The performance can include mime, play and dance drama
+Costumes, props and other materials should be brought by the participants only
+Vulgarity or bitter insinuations should be avoided in the act
+In case of use of audio, it should be brought in a pen-drive and is to be given to the event coordinator when asked
+There will be no projectors or LED displays allowed for your performance
+Category: cultural
+Sub Category: Performing Arts
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Ball Badminton
+Description: RULES & REGULATIONS OF THE TOURNAMENT
+·
+The
+tournament is by
+Invited teams only
+.
+·
+Participating
+teams can be a college team or institution team or deemed university team.
+·
+Participants
+should produce
+Bonafide certificate
+signed by the Principal &
+Physical Director.
+·
+Players
+must produce the
+college Identity Card
+at the time of Registration.
+Without identity card, the players are not eligible to Participate.
+·
+Physical
+Director or Assistant Physical Director must accompany the College team.
+Without team Manager team will not allow to participate.
+·
+All teams
+must be present at the venue
+30 minutes in advance
+.
+·
+The
+latest rules will be followed.
+·
+The
+decision of the referee nominated by the tournament committee will be the
+final. No protest will be entertained.
+·
+In all
+matters the decision of the tournament committee will be the final.
+·
+Accommodation
+(Unfurnished) will be provided for Outstation teams on prior request only.
+Refundable Caution Deposit
+Rs.1000/- will be collected per team.
+·
+Any Loss
+damage to the college property will be charged to the teams Concerned.
+·
+Registration Fees Rs.1500/-
+.
+·
+Registration to be done through online. Confirmation of team
+participation will be done after the completion of payment process.
+Category: sports
+Sub Category: State level
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Thesis Presentation
+Description: Thesis presentation is an international academic research competition crafted exclusively for postgraduates, PhD scholars, research scholars and fellows, and industry professionals with not more than 3 years of work experience. This competition gives participants an opportunity to showcase their research potential and build effective communication skills. Collaborate, network and exemplify your thought process by encapsulating your thesis in 10 minutes!
+Eligibility:
+All National and International:
+Postgraduates
+PhD Scholars
+Research Scholars/ Fellow
+Industry Professionals with not more than 3 years of working experience
+Guidelines:
+1. This is an online event and has 2 rounds
+Round 1:
+Abstract submission
+Round 2:
+Presentation
+2. A team can be comprised of 1 to 3 members
+NOTE:
+Abstract has to be uploaded during the initial registration
+Rules & Regulations:
+Round 1:
+An extended abstract of thesis with a word limit of 1000 words must be uploaded (Format: pdf, doc) on or before February 21, 2023
+The abstract must be relevant to the mentioned category (Engineering/ Life sciences)
+Round 2:
+Shortlisted participants will be intimated via e-mail to make their payment within the mentioned time frame
+Participants have to present their PowerPoint (Max: 5 slides) during the final round held on 01.03.2023 (Online)
+Presentation should not exceed the given time limit (Presentation - 10 mins, Discussion - 5 mins)
+The decision made by the jury is final
+Mode:
+Online (via Microsoft Teams)
+Rewards and Prizes:
+Winner receives ‘The Best Thesis Award’ and a cash prize of 30000 INR
+All shortlisted abstracts from round 1 will be published as a part of the proceedings
+Category: technical
+Sub Category: Tech Conclave
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Battle of Wits
+Description: Do you have a flair for strategic management? Then, test your knowledge, reasoning, creativity and pitching skills with the captivating event, Battle of Wits! Strive your way to reach your ultimate destination in quizzing, debating and auctioning!
+Category: general
+Sub Category: Entrepreneurship and Management
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Volleyball (Women)
+Description: RULES & REGULATIONS OF THE TOURNAMENT
+·
+The
+tournament is for
+Invited teams only
+.
+·
+Participating
+teams can be a college team or institution team or deemed university team.
+·
+Participants
+should produce
+Bonafide certificate
+signed by the Principal &
+Physical Director.
+·
+Players
+must produce the
+college Identity Card
+at the time of Registration.
+Without identity card, the players are not eligible to Participate.
+·
+Physical
+Director or Assistant Physical Director must accompany the College team.
+Without team Manager team will not allow to participate.
+·
+All teams
+must be present at the venue
+30 minutes in advance
+.
+·
+The
+latest rules will be followed.
+·
+The
+decision of the referee nominated by the tournament committee will be the
+final. No protest will be entertained.
+·
+In all
+matters the decision of the tournament committee will be the final.
+·
+Accommodation
+(Unfurnished) will be provided for Outstation teams on prior request only.
+Refundable Caution Deposit
+Rs.1000/- will be collected per team.
+·
+Any Loss
+damage to the college property will be charged to the teams Concerned.
+·
+Registration Fees Rs.1500/-
+.
+·
+Registration to be done through online. Confirmation of team
+participation will be done after the completion of payment process.
+Category: sports
+Sub Category: State level
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: DRAHAA'23
+Description: DRAHAA is the benchmark event of Kumaraguru Dramatroupe & Haasya. It is the event were the students will participate as 8 to 10 members per team. The participants have to perform skit and play various forms of art Infront of judges.
+Rules and regulations
+There must be no vulgarity.
+Participants should stick on to the limit.
+Time limit is 12 to 15 minutes.
+Participants should carry their own costumes and properties.
+The results would be finalized by the judges.
+Category: cultural
+Sub Category: Performing Arts
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: SHARK TANK
+Description: Shark Tank is a major business pitch competition where student entrepreneurs and college start-ups from all over India will participate to stand a chance to win investments, prize money, mentoring, and incubation.
+Eligibility
+:
+Open to all
+Instructions
+:
+This is a hybrid event and has 2 rounds.
+A team can comprise of maximum 5 members.
+Idea/Product Presentation has to be made in the form of PPT or Video presentation and uploaded during the initial registration.
+Rules & Regulations
+:
+Round 1(Online): Registration, Team Formation, Submit your Idea/Product's PPT, Online Workshop- Pitch TEDx
+Round 2(Offline): 02.03.2023 teams will pitch their ideas/ products to the sharks (offline)
+The shark’s decision will be final.
+Winning Perks
+:
+Investment from VCs
+Prize Money worth 60K
+Potential Incubation
+Assistance of skilled entrepreneurs
+Category: general
+Sub Category: Entrepreneurship and Management
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: VARIETY SHOW
+Description: Variety shows are forms of entertainment that feature a variety of performances, such as stand-up comedy, Kalakal Galata, and mimicry. The participants are requested to choose Any one of the three shows
+Rules and Regulations:
+1)
+No vulgarity
+2)
+No adult contents.
+3)
+Performance time: 4-5minutes
+4)
+Language - English or Tamil
+5)
+Judge decision will be final.
+Category: cultural
+Sub Category: Performing Arts
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Among Us
+Description: The event to showcase your inner Jack Sparrow, look forward, hustle around, time goes on, decode and at last a Treasure. The participants brain craves for even more mystery to solve and thrives the analytic intelligence.
+Rules and Regulations:
+1) Participants must solve each level to reach final stage.
+2) Participants should finish the game within the given time.
+3) A team of three can participate in this event.
+Category: technical
+Sub Category: Circuit
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Budding HR
+Description: "Financial Resources may be the lifeblood of a company, but human resources are the brains."  Budding HR event presents the participants with a 360 degree view of significance and functionalities of HR role with intriguing tasks and exciting levels. Grab the chance to bring out the best of you by tackling real-life scenarios!
+Category: general
+Sub Category: Entrepreneurship and Management
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Star talk
+Description: We have heard of India's missions to Mars, the Moon, rovers, and satellites. Ever questioned what the "inside scoop" on all these missions is? The scientists from ISRO are the driving force behind these projects and success stories. Join us for an interesting event to learn about a scientist's career at ISRO and his voyage to the stars.
+Category: technical
+Sub Category: Space
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Solvathon 2.0
+Description: Problem solving is an art in today's world. Finding a solution for the problem involves 2 crucial concepts, identification, and analysis. Solvathon stimulates the minds of students who are keen on finding solutions for challenging problems. Additionally, it aids in the creation of public policies that distinguish a government.
+Rules and regulations:
+1.The participants must stick with the problems provided by the organising team.
+2. Creative solutions will be awarded with high points.
+3. teams should critically criticize the other teams’ solutions and points will be awarded based on the quality of questions asked.
+Category: general
+Sub Category: Political Science
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: DecodElectrics
+Description: "DecodElectronics" is a platform designed to showcase the abilities of young students, rather than just engineers. This event offers you an opportunity to test your understanding of electric machines, components, and circuits. It comprises four rounds, which include: a quiz round, a rapid-fire round focused on identifying faults in given circuits, a problem-solving round, and a final round where you will have the chance to demonstrate your skills in electric circuit building. Join us and take advantage of this exciting event and have the chance to win fantastic cash prizes.
+Category: technical
+Sub Category: Circuit
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Improvathon
+Description: The goal of an Improvathon is to play out a prompt that is delivered immediately. A two or three person team can expand and improve the narrative. The judges will assess your acting abilities. The performance should last between 5-8 minutes. The most impulsive and innovative crew will be rewarded.
+Rules and regulations –
+Team can consist of 2 or 3 members.
+The prompt will be given on spot.
+Preparation time of 5 minutes will be provided.
+The performance time should be 5-8 minutes.
+The performance can be either English or Tamil.
+No vulgarity.
+Stick to the time limit.
+Judges decision will be final.
+Category: cultural
+Sub Category: Performing Arts
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Monochromatica
+Description: "From black and white to a sepia tone, some dreams come with  a tint or in monochrome."  Team Varnam brings to you 'Chromatica', an event to bounce back to basics. With limited colors and limited time, express unlimited creativity. Colors are primary, so is your skill. Take up this challenge to find out what impact  a single color can make.
+Rules and regulations
+•This is an individual event.
+•Medium-Acrylic
+•Participants will be provided with a single colour of their choice plus black and white paints.
+•A3 size chart and brushes will be provided.
+•Theme will be given on-spot.
+•Judging will be based on creativity, detailing and completeness.
+•Decision of the judge will be final.
+Category: cultural
+Sub Category: Fine Arts
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Choreonite
+Description: "Yugam 2023”, a brand-new renaissance to carry on  dancers' legacy in Kumaraguru Institutions, is held from March 2nd to 4th,2023 , to offer students a remarkable platform to gain exposure and to showcase all your talents on the stage. Are you a dance enthusiast? Walk upon the opportunity and make use of an incredible podium to  "explore and unleash the talents" of younger minds with your troupe dance.  Evoke your body in rhythmic beats, evolve all your emotions taken delight in your movements itself !
+Rules and regulations :
+● ONLY ONE registration per college shall be permitted to take part in this event.
+● All teams must send in a recently recorded  western or thematic dance video with the participating team  by 24th while registering. Along with it audio must be submitted.
+● The permitted video length is 3 to 5 minutes.
+● Number of participants in a crew is 8 - 16 along with 3 extra members for backstage, lighting and costume requirements.
+● The shortlisted teams will be invited to perform in Choreonite Finals during Yugam.
+● Few teams will be called to participate in the Wildcard round based on their performance from round 1, resulting in 1 team being given another shot at making it to the choreonite finals. The same set of rules followed in finals applies for the wildcard round.
+● Team captains along with their entire crew are requested to be present 4 hours prior to the event, as registration will happen along with song submission and slot allocation.
+● The duration of the performance is 10 minutes (inclusive of set up and narrative, if any). Deviation from the time limit will lead to reduction of points.
+● The participating teams are given the freedom to go with any genre of their choice.
+● All musical languages are permitted. However, gestures that are vulgar or profane, either in a statement of intent, are strictly prohibited. Any action deemed offensive to a particular community or section of society (religion, race, caste, creed, gender, etc.) will result in instant disqualification.
+● All props are allowed, with an exception of fire, oil, glass, water or any object that could possibly be damaging the stage.
+● The teams are entirely responsible for their belongings. YUGAM will not be responsible in case of missing props, costumes etc.
+● All decisions taken by the judges shall be deemed final.
+Judging Criteria:
+Incorporating multiple dance styles will fetch you bonus points.
+The audience' response and entertainment value for your performance shall be considered.
+Usage of props might add some bonus points
+Energy, cohesion will also be taken into consideration.
+Category: cultural
+Sub Category: Performing Arts
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Tech Expo
+Description: Tech Expo 2023
+a stage for exhibiting your emerging innovations on major blooming technical aspects answering the challenges of today. This brings up a unique platform for students across India to showcase their prototypes or proof of concepts to the various industries and investors.
+CATEGORIES:
+1.
+Artificial Intelligence
+2.
+Agritech
+3.
+Health Tech
+4.
+Smart Cities and Infrastructure
+5.
+Electric and Hybrid Vehicle
+The tech expo involves two Procedures:
+1. Abstract and Video submission (Online)
+2. Project Presentation (Offline)
+Submit the Abstract Before : 3rd March (11:59PM) or Bring Abstract offline
+Team size: 2-4
+Register, Pay, Submit Abstract and Participate in the Tech Expo 2023!!Offline Payment available
+All the the Applied Participants can participate for the Project Presentation Offline!
+Do not miss out this opportunity as this expo aims to discover and unveil new innovations and projects and expand your knowledge and network with investors and industries. Exhibit your prototypes/proof of concepts and win cash prizes.
+Category: technical
+Sub Category: Circuit
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: RJ Hunt
+Description: RJ HUNT is to provide a platform to all the aspiring RJs and to promote the radio jockeying culture. This would be a competition with three rounds. This event is to bring back a light on the RJ Culture.
+Rules and regulations:
+1. Individual participation
+2. On the spot topic
+3. No surfing of internet
+Category: literary
+Sub Category: Literature
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: War of Wits
+Description: To think through things clearly, there comes the need for opinions and viewpoints from different visions which help us navigate into the nuances. Civil debates play an instrumental role in presenting opposing viewpoints and enlighten us with our blind spots.
+War of wits is a debating platform to ignite other souls to bring inspiration with their words which make up powerful sentences that rule the world for a better tomorrow and eventually a better society.
+ROUND 1 : PRELIMS
+ROUND 2 : FINALS
+Rules and regulations:
+1)Each team must consist of 3 members
+2)Two members will speak for the motion (time span:90 seconds) and one against the motion (time span:120 seconds)
+3)Topic shall be given on spot.
+Category: literary
+Sub Category: Literature
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Trendz'23
+Description: “Fashion is architecture: It is a matter of proportions.” Trend'z is a fashion show where the participants can design a garment and do a ramp walk. Use this perfect platform for showcasing your fashion designing skills!
+Rules & Regulations:
+Theme Selection is open to the team.
+The participants must bring the hard copy of their portfolio.
+On stage time for each team would be 5 minutes (including ramp and explanation)
+Vulgarity is strictly prohibited. Any form of obscenity will lead to disqualifying the team from the contest .
+Teams will be judged on costumes, theme and walking stance.
+The decision of the judges will be final and binding.
+All costumes are permitted, which maintain decency including original costumes and fashion designs.
+Participants should not be from KCT institutions.
+Category: cultural
+Sub Category: Fashion Technology
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Code Heist
+Description: Code Heist is a full-fledged technical event with a unique round that focuses on bringing up the teamwork, enhancing their analytical, logical and problem solving skills and also to explore the healthy environment of competence.
+Rules and Regulations -
+Participants can team themselves as a pair.
+Each round will have its own specific rules to abide by..
+Round 1 will be a quiz round in which players must finish the quiz within a set time limit and their responses are filtered.
+Round 2 will be swap coding. A problem statement will be given. The team of 2 solves the problem. The first team member must code the solution for the first three minutes of the round without assistance from other team members. After three minutes, the next team member switches roles to continue coding the answer where his or her teammates left off.
+Round 3 Here, the team is given one main task in which one team member must code the program; however, the coding team member is not given the question, and the other team member is asked to see the question and send notes outlining how the program code should be constructed, using any sources he chooses.
+Last but not least, the coder needs to comprehend the notes in order to implement them properly.
+Category: technical
+Sub Category: Computing
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: LEGO Brick-Tech Circuit Challenge
+Description: LEGO Brick-Tech Circuit Challenge is a two-day techno event focused on learning about sensors and their applications. The first day is a non- elimination round with the first level determining the type of circuit and sensors, and the second level will involve debugging and troubleshooting. The second is a fabricating round with teams pitching an application for a sensor and building a prototype using LEGO pieces. Prototypes will be evaluated based on complexity, need, and creativity.
+Rules and Regulations -
+No one should be involved in any malpractice.
+Should involve as a team and participants having basic circuits knowledge will be appreciated.
+Should handle sensors carefully.
+Category: technical
+Sub Category: Circuit
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Verbal Pool
+Description: Brush up your team work and communication skills to the next level with Verbal Pool! Our engaging event is the excellent way to test your Reading and Writing abilities in a team-based environment. Demonstrate your brilliance and work together to examine that what’s you need! Don’t miss out on this golden opportunity to put your vocabulary skills to the test – register now for Verbal Pool!
+Category: literary
+Sub Category: Literature
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Reel and Real
+Description: This event comprises of 2 rounds, wherein during the 1st round, the participants will be given a set of pictures on the spot, using which they must perform certain activities using their presentation skills. The spontaneity of each individual is tested along with his story-telling skills, followed by the second round in which a video will be played and he must perform his own version of dubbing.
+Round 1 :
+A collection of pictures with no connection between them,  will be put up. The  participants will have to tell a story by linking the set of pictures.
+Round 2:
+A mute video , usually a popular movie scene will be played . The participants will have to give voice over to the video . Dialogues for the scenes can be of their own provided it has no vulgarity.
+Category: literary
+Sub Category: Literature
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Designcon
+Description: Designcon targets the techs to master and compete in the art of  PCB designing using online software and also gives a hands-on experience. This consists of two rounds.
+
+Preliminary Round: 
+       In this round, the participants will be asked to design basic circuits using online software.
+Final Round: 
+     In this round, the shortlisted participants will be provided with dotted boards and a soldering kit.
+Category: technical
+Sub Category: Circuit
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Water Rocketry
+Description: Water Rocketry is an event to develop awareness about aerospace modeling among students. The participants are instructed to make their own rocket model and based on the range covered scores will be rewarded.
+Rules and Regulations -
+Materials to be used :
+Water bottles more than 2 litres should not be used
+Tape(any kind), glue of any kind.
+Paper or plastic sheet material such as cardboard, Styrofoam, thin plastic sheet, etc.
+Twine, string, thread, and ribbon (if required)
+(NOTE: It is not mandatory to use all the above-Mentioned materials)
+Construction Rules :
+Rockets must be built by the participating students .
+The Water bottles may be filled with water and pressurized. Additions to the bottle (such as fins, nose cone, etc.) may be attached on their own wish.
+Paint or decorations on the plastic of the pressurized bottles are allowed. Only tape, paper and plastic may be in direct contact with the pressurized bottle. Tape covering the bottle and other parts of the rocket may be painted or otherwise decorated.
+The Participants should make their own launching pad which can be used to launch the rocket and to fill air to the bottles.
+The mouth of the pressurized bottle must fit over the launching pad.
+Competition Rules :
+Each team can have a minimum of 2 members and a maximum of 3 members .
+Individual participants are not allowed.
+The water bottles used should not exceed more than 2 litres.
+It is mandatory for all participants to bring the air pumps and launching pad of their own.
+There will be two rounds .The teams are shortlisted for the second round based on their performance and marks obtained on the first round.
+The competitors add the desired amount of water to their rockets prior to being pressurized.
+Within a minute ,the participants should pressurize their rocket and launch them.
+The distance covered by the rockets will be considered.
+Each participant will be given two chances for their rockets. The best of two will be considered.
+The participants can select the desired launch angle. And ensure that the rocket should not spin.
+The winners will be selected only on the longest distance traveled by their rockets.
+Participants should use the same rocket model for both the rounds
+The judge’s decision is final.
+(NOTE: The participants are advised to reach the event spot 30 min prior to the event time)
+Scoring And Awards
+Awards will be provided to the models which covered the longest range.
+Judge's decision is final.
+Category: technical
+Sub Category: Mechanical
+
+--------------------------------------------------------------------------------
+
+Title_of_the_event: Dhwani
+Description: DHWANI, the extravaganza of music is Yugam’s eastern battle of bands. It’s all about showcasing the synergy between the evolving musicians across the nation. The stage serves as a battleground for the musical bands in getting to know their creativity and skill level whilst being put in a competitive circumstance.
+Rules and Regulations:
+Rounds: Two Rounds
+Round 1: The bands must send a video of their performance.
+Round 2: Bands should perform for a given time slot.
+The winners are decided by the jury based on skill, coordination, song selection, stage presence, time management.
+• All participants must report at 9AM (Physical registrations to be done if registered online).
+• First round video length should be between 3 to 5 minutes. The video should be submitted on or before 25th February.
+• For the second round the participants will be given 10 minutes to perform and 5 minutes for sound check - Total 15 minutes (Exceeding the time limits will result in negative marks or disqualifications).
+• Total number of participants per band should not exceed 8.
+• songs Genre - Eastern.
+• Drum kit will be provided.
+Category: cultural
+Sub Category: Performing Arts
+
+--------------------------------------------------------------------------------
+
