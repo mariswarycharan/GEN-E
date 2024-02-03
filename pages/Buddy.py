@@ -100,7 +100,7 @@ for message in st.session_state.messages_vision:
 # if speech_button:
 #     prompt = speech_to_text()
 
-import pyttsx3
+
 
 if prompt := st.chat_input("What is up?"):
     
